@@ -89,7 +89,7 @@ elements들로 구성되어있으며, 이를 적절한 방법으로 나타내고
 - css
   - `<link>`를 통해 적용한다
   - link는 항상 `head`부분에 위치한다.
-  - `rel=”styleshee”` 속성을 부여해 문서의 스타일 시트임을 나타낸다.
+  - `rel=”stylesheet”` 속성을 부여해 문서의 스타일 시트임을 나타낸다.
 - javascript
   - `<script>` 태그를 통해 적용한다.
   - `script` 태그는 `head`에 위치하면 안된다.
