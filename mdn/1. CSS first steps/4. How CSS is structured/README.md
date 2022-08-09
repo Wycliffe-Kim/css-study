@@ -233,7 +233,7 @@ body {
 
 ``` css
 body {
-  padding: 10px 15px 15px 5px;
+  padding: 10px 15px 5px;
 }
 
 body {
