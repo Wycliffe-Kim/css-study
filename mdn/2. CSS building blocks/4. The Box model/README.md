@@ -77,15 +77,20 @@ CSS에는 크게 두 가지 박스 유형이 있다.
 - 너비 : 350 + 25 + 25 + 5 + 5 = 410px
 - 높이 : 150 + 25 + 25 + 5 + 5 = 210px
 
-### 대체 box model
+### box-sizing
 
-`box-sizing: border-box`를 설정해주면 대체 box model을 활성화 할 수 있다.
+박스의 크기를 어떤 것을 기준으로 계산할지 정하는 속성
 
-여기서 너비는 너비에서 padding과 테두리 너비를 뺀 너비다.
+- border-box: 테두리를 기준으로 크기를 정하겠다. (대체 box 모델)
+- content-box: 콘텐츠 영역을 기준으로 크기를 정하겠다. (default)
+
+border-box로 설정하면, 너비는 너비에서 padding과 테두리 너비를 뺀 너비다.
 위와 동일한 코드로 너비와 높이를 구해보면 다음과 같다
 
 - 너비 : 350px
 - 높이 : 150px
+
+border-box로 설정하는 이유는 width값을 동일하게 설정해주었다고 가정했을때, content-box는 콘텐츠 영역 + width값이 되므로 지정해준 width값과 다르게 적용된다.
 
 <br />
 <br />
