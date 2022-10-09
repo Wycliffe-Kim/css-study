@@ -1,6 +1,14 @@
 # OverFlowing Content
 
-## overflow 란 무엇인가?
+- [Overflow란 무엇인가](#define-overflow")
+- [CSS : 데이터 손실을 피하려고 한다.](#avoid-data-loss)
+- [overflow 속성](#overflow-properties)
+- [결론](#conclusion)
+
+<br/>
+<br/>
+
+### <div id="define-overflow">Overflow란 무엇인가</div>
 
 Box는 CSS의 전부다. 레이아웃은 Box로 구성되며 Box의 크기를 제한 할 수 있다. 그러다보면 종종 Box안의 내용이 넘쳐나는 경우가 있다. <br />
 이를 우리는 overflow 라고 한다. <br />
@@ -8,7 +16,7 @@ Box는 CSS의 전부다. 레이아웃은 Box로 구성되며 Box의 크기를 �
 Overflow는 박스에 내용이 너무 많을 때 발생하는 현상으로, 박에 모든 컨텐트를 수용할 수 없을 때 발생한다.
 CSS 레이아웃을 작성하다보면 overflow 상황이 자주 발생하게 되는데, 이런 상황을 어떻게 대응할지 알아보도록 하자.
 
-## CSS : 데이터 손실을 피하려고 한다.
+### <div id="avoid-data-loss">CSS : 데이터 손실을 피하려고 한다.</div>
 
 두 가지 상황에 대해서 css가 우리에게 어떤 화면을 보여주는지 살펴보자.
 
@@ -29,7 +37,7 @@ content가 box를 벗어난 상태 그대로 화면에 보여질 것이다.
 
 `width` 와 `height`로 제한하면, CSS 는 사용자가 수행중인 작업을 알고 있으며, overflow 가능성을 염두한채 관리한다고 가정한다.
 
-## overflow 속성
+### <div id="overflow-properties">Overflow 속성</div>
 
 overflow 속성을 통해 동작을 제어해보자.
 
@@ -54,7 +62,7 @@ overflow 속성을 통해 동작을 제어해보자.
 | scroll   | 두 개의 값을 전달하여 x 와 y 스크롤을 지정할 수 있다.<br /> 첫 번째 값은 `scroll-x`, 두번째 값은 `scroll-y`에 적용되며, 하나만 입력하면 둘 다 적용된다. |
 | auto     | 브라우저에게 판단을 맡김.                                                                                                                               |
 
-## 결론
+### <div id="conclusion"> 결론</div>
 
 - 박스 크기를 고정하면 overflow 문제가 발생할 수 있으므로, 박스 크기 고정에 의존하지 않도록 레이아웃을 리팩터링 하는것이 이상적이다.
 - 사이트를 개발할 때는 항상 overflow 문제를 염두에 두어야 한다.
