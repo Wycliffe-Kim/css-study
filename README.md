@@ -20,3 +20,5 @@
 4. [The box model](mdn/2.%20CSS%20building%20blocks/4.%20The%20box%20model/)
 5. [Backgrounds and border](mdn/2.%20CSS%20building%20blocks/5.%20Backgrounds%20and%20borders/)
 6. [Handling different text directions](mdn/2.%20CSS%20building%20blocks/6.%20Handling%20different%20text%20directions/)
+7. [Overflowing content](mdn/2.%20CSS%20building%20blocks/7.%20Overflowing%20content/)
+8. [CSS values and units](mdn/2.%20CSS%20building%20blocks/8.%20CSS%20values%20and%20units/)
