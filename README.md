@@ -18,3 +18,5 @@
 2. [Cascade and inheritance](mdn/2.%20CSS%20building%20blocks/2.%20Cascade%20and%20inheritance/)
 3. [CSS selectors](mdn/2.%20CSS%20building%20blocks/3.%20CSS%20selectors/)
 4. [The box model](mdn/2.%20CSS%20building%20blocks/4.%20The%20box%20model/)
+5. [Backgrounds and border](mdn/2.%20CSS%20building%20blocks/5.%20Backgrounds%20and%20borders/)
+6. [Handling different text directions](mdn/2.%20CSS%20building%20blocks/6.%20Handling%20different%20text%20directions/)
