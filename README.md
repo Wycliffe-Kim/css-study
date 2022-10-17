@@ -22,3 +22,7 @@
 6. [Handling different text directions](mdn/2.%20CSS%20building%20blocks/6.%20Handling%20different%20text%20directions/)
 7. [Overflowing content](mdn/2.%20CSS%20building%20blocks/7.%20Overflowing%20content/)
 8. [CSS values and units](mdn/2.%20CSS%20building%20blocks/8.%20CSS%20values%20and%20units/)
+9. [Sizing items in CSS](mdn/2.%20CSS%20building%20blocks/9.%20Sizing%20items%20in%20CSS/)
+10. [Images, media, and form elements](mdn/2.%20CSS%20building%20blocks/10.%20Images%2C%20media%2C%20and%20form%20elements/)
+11. [Styling tables](mdn/2.%20CSS%20building%20blocks/11.%20Styling%20tables/)
+12. [Organizing your CSS](mdn/2.%20CSS%20building%20blocks/12.%20Organizing%20your%20CSS/)
