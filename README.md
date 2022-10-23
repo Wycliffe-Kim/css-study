@@ -26,3 +26,9 @@
 10. [Images, media, and form elements](mdn/2.%20CSS%20building%20blocks/10.%20Images%2C%20media%2C%20and%20form%20elements/)
 11. [Styling tables](mdn/2.%20CSS%20building%20blocks/11.%20Styling%20tables/)
 12. [Organizing your CSS](mdn/2.%20CSS%20building%20blocks/12.%20Organizing%20your%20CSS/)
+
+## CSS layout
+1. [Flexbox](mdn/3.%20CSS%20layout/1.%20Flexbox/)
+2. [Grids](mdn/3.%20CSS%20layout/2.%20Grids/)
+3. [Floats](mdn/3.%20CSS%20layout/3.%20Floats/)
+4. [Positioning](mdn/3.%20CSS%20layout/4.%20Positioning/)
