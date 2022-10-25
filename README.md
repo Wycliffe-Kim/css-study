@@ -32,3 +32,7 @@
 2. [Grids](mdn/3.%20CSS%20layout/2.%20Grids/)
 3. [Floats](mdn/3.%20CSS%20layout/3.%20Floats/)
 4. [Positioning](mdn/3.%20CSS%20layout/4.%20Positioning/)
+5. [Multiple column layout](mdn/3.%20CSS%20layout/5.%20Multiple%20column%20layout/)
+6. [Responsive design](mdn/3.%20CSS%20layout/6.%20Responsive%20design/)
+7. [Beginner's guide to media queries](mdn/3.%20CSS%20layout/7.%20Beginner's%20guide%20to%20media%20queries/)
+8. [Legacy layout methods](mdn/3.%20CSS%20layout/8.%20Legacy%20layout%20methods/)
