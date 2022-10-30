@@ -127,7 +127,7 @@ position-box는 동일한 top과 left 값으로 포지셔닝을 하지만, relat
 ```
 
 - 위 상황에서 레이아웃은 Box3 > Box2 > Box1 순으로 Box1이 제일 밑에 쌓이게 될 것이다.
-  ![default-z-index](images/default=z-index.png)
+  ![default-z-index](images/default-z-index.png)
 
 - `z-index` 속성으로 스택 순서를 바꿀 수 있다.
 - `z-index` 는 z축을 가리킨다.
