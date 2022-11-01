@@ -45,5 +45,5 @@
 
 ### Backgrounds and Borders
 
-1. [Using multiple background](mdn/4.%20Guides/2.%20Backgrounds%20and%20Borders/1.%20Using%20multiple%20backgrounds/)
+1. [Using multiple backgrounds](mdn/4.%20Guides/2.%20Backgrounds%20and%20Borders/1.%20Using%20multiple%20backgrounds/)
 2. [Resizing background images](mdn/4.%20Guides/2.%20Backgrounds%20and%20Borders/2.%20Resizing%20background%20images/)
