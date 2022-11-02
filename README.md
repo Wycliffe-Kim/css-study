@@ -36,3 +36,14 @@
 6. [Responsive design](mdn/3.%20CSS%20layout/6.%20Responsive%20design/)
 7. [Beginner's guide to media queries](mdn/3.%20CSS%20layout/7.%20Beginner's%20guide%20to%20media%20queries/)
 8. [Legacy layout methods](mdn/3.%20CSS%20layout/8.%20Legacy%20layout%20methods/)
+
+## Guides
+
+### Animations
+
+1. [Using CSS animations](mdn/4.%20Guides/1.%20Animations/1.%20Using%20CSS%20animations/)
+
+### Backgrounds and Borders
+
+1. [Using multiple backgrounds](mdn/4.%20Guides/2.%20Backgrounds%20and%20Borders/1.%20Using%20multiple%20backgrounds/)
+2. [Resizing background images](mdn/4.%20Guides/2.%20Backgrounds%20and%20Borders/2.%20Resizing%20background%20images/)
