@@ -47,3 +47,13 @@
 
 1. [Using multiple backgrounds](mdn/4.%20Guides/2.%20Backgrounds%20and%20Borders/1.%20Using%20multiple%20backgrounds/)
 2. [Resizing background images](mdn/4.%20Guides/2.%20Backgrounds%20and%20Borders/2.%20Resizing%20background%20images/)
+
+### Box alignment
+1. [Box alignment in block layout](mdn/4.%20Guides/3.%20Box%20alignment/1.%20Box%20alignment%20in%20block%20layout/)
+2. [Box alignment in flex box](mdn/4.%20Guides/3.%20Box%20alignment/2.%20Box%20alignment%20in%20flex%20box/)
+3. [Box alignment in grid layout](mdn/4.%20Guides/3.%20Box%20alignment/3.%20Box%20alignment%20in%20grid%20layout/)
+4. [Box alignment in multi-column layout](mdn/4.%20Guides/3.%20Box%20alignment/4.%20Box%20alignment%20in%20multi-column%20layout/)
+
+### Box model
+1. [Introduction to the CSS basic box model](mdn/4.%20Guides/4.%20Box%20model/1.%20Introduction%20to%20the%20CSS%20basic%20box%20model/)
+2. [Mastering margin collapsing](mdn/4.%20Guides/4.%20Box%20model/2.%20Mastering%20margin%20collapsing/)
